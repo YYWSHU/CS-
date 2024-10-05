@@ -8,4 +8,5 @@
 
 > 实践  
 > > [西瓜书代码实践](https://github.com/datawhalechina/machine-learning-toy-code)  
-> > [sklearn官网](https://scikit-learn.org/stable/index.html)  
+> > [sklearn官网](https://scikit-learn.org/stable/index.html)  [sklearn中文文档](https://www.scikitlearn.com.cn/)
+> > [numpy-菜鸟教程](https://www.runoob.com/numpy/numpy-tutorial.html)
