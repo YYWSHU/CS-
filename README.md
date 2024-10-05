@@ -16,3 +16,5 @@
 
 ## 一些有用的仓库
 - <https://github.com/doocs/technical-books>
+- <https://github.com/spring2go/cs_study_plan>
+- <https://csguide.cn/>
