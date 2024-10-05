@@ -3,7 +3,7 @@
 ***
 
 ## 语言  
-> [c++]()
+> [c++](https://github.com/YYWSHU/CS-/tree/main/Language/c%2B%2B)
 ## 技术  
 
 ## CS基础  
