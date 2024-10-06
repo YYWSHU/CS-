@@ -43,11 +43,19 @@
 <https://teachyourselfcs.com/>  
 [程序员修炼宝典](https://github.com/niudai/How-to-be-a-good-programmer) 
 <https://why.degree/motivation/>  
-<https://gitee.com/forkset/CS-Wiki>  
+<https://gitee.com/forkset/CS-Wiki>
+<https://github.com/wotouteng/fens.me/tree/master> 包含IT技术玩金融  
+[图灵班-成为一个合格的CS人](https://turing2022.tonycrane.cc/cser/)  
+[CS(Computer-Science)入坑指南](https://github.com/illuz/cs-faq)  
+[文科转CS经验](https://forum.chasedream.com/thread-1338124-1-1.html)
 
 - 求职  
 <https://github.com/amusi/AI-Job-Notes>  
-<https://github.com/puge-up/programming-play/tree/main>
+<https://github.com/puge-up/programming-play/tree/main>  
+<https://github.com/wuyoueeee/CS-Job-Guide>
+
+- 升学
+ <https://avaxiao.github.io/blog/2022_Fall_CS_PhD_application/>
 
 - 科研  
 [如何阅读论文](https://github.com/qiyuangong/How_to_Search_and_Read_a_Paper)
