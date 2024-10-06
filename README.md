@@ -42,10 +42,12 @@
 <https://github.com/izackwu/TeachYourselfCS-CN>  
 <https://teachyourselfcs.com/>  
 [程序员修炼宝典](https://github.com/niudai/How-to-be-a-good-programmer) 
-<https://why.degree/motivation/>
+<https://why.degree/motivation/>  
+<https://gitee.com/forkset/CS-Wiki>  
 
 - 求职  
-<https://github.com/amusi/AI-Job-Notes>
+<https://github.com/amusi/AI-Job-Notes>  
+<https://github.com/puge-up/programming-play/tree/main>
 
 - 科研  
 [如何阅读论文](https://github.com/qiyuangong/How_to_Search_and_Read_a_Paper)
