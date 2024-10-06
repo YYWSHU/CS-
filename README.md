@@ -16,7 +16,13 @@
 
 ## 一些有用的资料
 - 资源  
-<https://github.com/doocs/technical-books>
+<https://github.com/doocs/technical-books>  
+[浙江大学课程攻略共享计划](https://github.com/QSCTech/zju-icicles)  
+[计算机专业课（408）思维导图和笔记](https://github.com/SSHeRun/CS-Xmind-Note)  
+[清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)  
+[名校公开课程评价网](https://github.com/conanhujinming/comments-for-awesome-courses)  
+[Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses#systems-programming)  
+<https://news.ycombinator.com/item?id=21920205>  
 
 - 经验贴  
 [程序员延寿宝典](https://github.com/geekan/HowToLiveLonger)  
@@ -34,6 +40,9 @@
 [0xFFFF社区](https://wiki.0xffff.one/about)  
 [清华大学飞跃手册](https://feiyue.online/#1)  
 <https://github.com/izackwu/TeachYourselfCS-CN>  
+<https://teachyourselfcs.com/>  
+[程序员修炼宝典](https://github.com/niudai/How-to-be-a-good-programmer) 
+<https://why.degree/motivation/>
 
 - 求职  
 <https://github.com/amusi/AI-Job-Notes>
