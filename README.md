@@ -14,7 +14,7 @@
 
 ## 数学  
 
-## 一些有用的仓库
+## 一些有用的资料
 - 资源  
 <https://github.com/doocs/technical-books>
 
