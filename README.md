@@ -25,15 +25,15 @@
 <https://jiangh156.github.io/cs-strategy/>  
 <https://github.com/huangrt01/CS-Notes/tree/master>  
 <https://github.com/XizoZhou/cs-guide>  
-<https://martins3.github.io/learn-cs.html>
+<https://martins3.github.io/learn-cs.html>  
 <https://github.com/Reso1mi/blog-md/tree/master>  
-[清华树洞](https://github.com/pb0316/thuhole_memories/tree/main)
-<https://github.com/XizoZhou/cs-guide>
+[清华树洞](https://github.com/pb0316/thuhole_memories/tree/main)  
+<https://github.com/XizoZhou/cs-guide>  
 [程序员修炼之路](https://github.com/CodingDocs/advanced-programmer)  
-[西电指导](https://xdu-cs-learning.readthedocs.io/en/latest/index.html)
+[西电指导](https://xdu-cs-learning.readthedocs.io/en/latest/index.html)  
 [0xFFFF社区](https://wiki.0xffff.one/about)  
-[清华大学飞跃手册](https://feiyue.online/#1)
-<https://github.com/izackwu/TeachYourselfCS-CN>
+[清华大学飞跃手册](https://feiyue.online/#1)  
+<https://github.com/izackwu/TeachYourselfCS-CN>  
 
 - 求职  
 <https://github.com/amusi/AI-Job-Notes>
