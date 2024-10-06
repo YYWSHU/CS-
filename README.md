@@ -18,12 +18,13 @@
 - 资源  
 - <https://github.com/doocs/technical-books>
 
-- 经验贴
+- 经验贴  
 [程序员延寿宝典](https://github.com/geekan/HowToLiveLonger)  
 <https://github.com/spring2go/cs_study_plan>  
 <https://csguide.cn/>  
 <https://jiangh156.github.io/cs-strategy/>  
-<https://github.com/huangrt01/CS-Notes/tree/master> 
+<https://github.com/huangrt01/CS-Notes/tree/master>  
+<https://github.com/XizoZhou/cs-guide>
 
 - 求职
 <https://github.com/amusi/AI-Job-Notes>
