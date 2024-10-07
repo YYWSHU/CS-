@@ -23,8 +23,12 @@
 [名校公开课程评价网](https://github.com/conanhujinming/comments-for-awesome-courses)  
 [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses#systems-programming)  
 <https://news.ycombinator.com/item?id=21920205>  
+<https://github.com/codecrafters-io/build-your-own-x>  
+[python实现各种算法](https://github.com/TheAlgorithms/Python)  
+<https://github.com/NLP-LOVE/ML-NLP/tree/master>
 
-- 经验贴  
+- 经验贴
+[焦糖工作室(各种经验贴)](https://d.jotang.club/)  
 [程序员延寿宝典](https://github.com/geekan/HowToLiveLonger)  
 <https://github.com/spring2go/cs_study_plan>  
 <https://csguide.cn/>  
@@ -47,7 +51,8 @@
 <https://github.com/wotouteng/fens.me/tree/master> 包含IT技术玩金融  
 [图灵班-成为一个合格的CS人](https://turing2022.tonycrane.cc/cser/)  
 [CS(Computer-Science)入坑指南](https://github.com/illuz/cs-faq)  
-[文科转CS经验](https://forum.chasedream.com/thread-1338124-1-1.html)
+[文科转CS经验](https://forum.chasedream.com/thread-1338124-1-1.html)  
+[各种大学资料仓库](https://cloud.tencent.com/developer/article/1806327)
 
 - 求职  
 <https://github.com/amusi/AI-Job-Notes>  
@@ -55,7 +60,8 @@
 <https://github.com/wuyoueeee/CS-Job-Guide>
 
 - 升学
- <https://avaxiao.github.io/blog/2022_Fall_CS_PhD_application/>
+ <https://avaxiao.github.io/blog/2022_Fall_CS_PhD_application/>  
+ <https://medium.com/@adrianhsu/2019-fall-cs-m-s-%E7%94%B3%E8%AB%8B%E5%9B%9E%E9%A5%8B-59d9b728d990>
 
 - 科研  
 [如何阅读论文](https://github.com/qiyuangong/How_to_Search_and_Read_a_Paper)
