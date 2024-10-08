@@ -52,7 +52,8 @@
 [图灵班-成为一个合格的CS人](https://turing2022.tonycrane.cc/cser/)  
 [CS(Computer-Science)入坑指南](https://github.com/illuz/cs-faq)  
 [文科转CS经验](https://forum.chasedream.com/thread-1338124-1-1.html)  
-[各种大学资料仓库](https://cloud.tencent.com/developer/article/1806327)
+[各种大学资料仓库](https://cloud.tencent.com/developer/article/1806327)  
+<https://github.com/forthespada/InterviewGuide/tree/main>
 
 - 求职  
 <https://github.com/amusi/AI-Job-Notes>  
