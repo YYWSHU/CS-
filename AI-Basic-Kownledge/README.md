@@ -7,3 +7,6 @@
 - [GNN]()
 - [MLSys]()
 - [LLM]()
+
+- 一些资源  
+<https://github.com/josephmisiti/awesome-machine-learning>
